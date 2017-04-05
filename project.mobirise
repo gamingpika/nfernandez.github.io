@@ -731,7 +731,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/unicorn-logo-128x420.png",
+              "src": "@PROJECT_PATH@/assets/images/unicorn-logo-128x421.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -2112,7 +2112,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/unicorn-logo-128x420.png",
+              "src": "@PROJECT_PATH@/assets/images/unicorn-logo-128x421.png",
               "width": 128,
               "active": true,
               "link": "",
